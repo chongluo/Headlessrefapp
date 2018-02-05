@@ -1,0 +1,2350 @@
+[
+    {
+        "requestId": "1416.1",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "http://localhost:9000/",
+        "headers": {
+            "upgrade-insecure-requests": "1",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.2",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "http://localhost:9000/main.css",
+        "headers": {
+            "referer": "http://localhost:9000/",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "stylesheet"
+    },
+    {
+        "requestId": "1416.3",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/webcomponentsjs/webcomponents-lite.min.js",
+        "headers": {
+            "referer": "http://localhost:9000/",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.4",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "http://localhost:9000/",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.5",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "http://localhost:9000/main.js",
+        "headers": {
+            "referer": "http://localhost:9000/",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.6",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "http://localhost:9000/webpack-dev-server.js",
+        "headers": {
+            "referer": "http://localhost:9000/",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.7",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "http://localhost:9000/polyfills.js",
+        "headers": {
+            "referer": "http://localhost:9000/",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.8",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "http://localhost:9000/redoc.js",
+        "headers": {
+            "referer": "http://localhost:9000/",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.12",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/polymer/polymer.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.13",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-a11y-keys-behavior/iron-a11y-keys-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.14",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.15",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-overlay.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.16",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-shared-styles.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.17",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/polymer/polymer-mini.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/polymer/polymer.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.18",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-list/iron-list.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-overlay.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.19",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/paper-styles/shadow.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-overlay.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.20",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-overlay-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-overlay.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.21",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-form-element-behavior/iron-form-element-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-behavior.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.22",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-a11y-announcer/iron-a11y-announcer.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-behavior.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.23",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-dropdown-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-behavior.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.24",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/polymer/polymer-micro.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/polymer/polymer-mini.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.25",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-resizable-behavior/iron-resizable-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-overlay-behavior.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.26",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-scroll-target-behavior/iron-scroll-target-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-list/iron-list.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.31",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "http://fonts.googleapis.com/css?family=Roboto:300,400,700|Montserrat:400,700",
+        "headers": {
+            "referer": "http://localhost:9000/",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "stylesheet"
+    },
+    {
+        "requestId": "1416.32",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "http://localhost:9000/swagger.yaml",
+        "headers": {
+            "referer": "http://localhost:9000/",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "other"
+    },
+    {
+        "requestId": "1416.33",
+        "frameId": "(23C0CB2A270866DDA652F84AA6709E33)",
+        "loaderId": "(AE8CA2FCC15B5DCE245B9E2E0AAAD564)",
+        "url": "https://ghbtns.com/github-btn.html?user=Rebilly&repo=ReDoc&type=star&count=true&size=large",
+        "headers": {
+            "upgrade-insecure-requests": "1",
+            "referer": "http://localhost:9000/",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.39",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" width=\"512\" height=\"512\" viewBox=\"0 0 512 512\"><g></g><path d=\"M275.682 147.999c0 10.864-8.837 19.661-19.682 19.661v0c-10.875 0-19.681-8.796-19.681-19.661v-96.635c0-10.885 8.806-19.661 19.681-19.661v0c10.844 0 19.682 8.776 19.682 19.661v96.635z\" fill=\"",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.41",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "http://localhost:9000/sockjs-node/info?t=1517829594412",
+        "headers": {
+            "referer": "http://localhost:9000/",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "xhr"
+    },
+    {
+        "requestId": "1416.42",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "http://localhost:9000/sockjs-node/info?t=1517829594413",
+        "headers": {
+            "referer": "http://localhost:9000/",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "xhr"
+    },
+    {
+        "requestId": "1416.43",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" enable-background=\"new 0 0 100 100\" version=\"1.1\" viewBox=\"0 0 100 100\" xml:space=\"preserve\"><polygon fill=\"",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.34",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "http://fonts.gstatic.com/s/montserrat/v12/zhcz-_WihjSQC0oHJ9TCYC3USBnSvpkopQaUR-2r7iU.ttf",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "http://fonts.googleapis.com/css?family=Roboto:300,400,700|Montserrat:400,700",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "font"
+    },
+    {
+        "requestId": "1416.37",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "http://fonts.gstatic.com/s/roboto/v18/zN7GBFwfMP4uA6AR0HCoLQ.ttf",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "http://fonts.googleapis.com/css?family=Roboto:300,400,700|Montserrat:400,700",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "font"
+    },
+    {
+        "requestId": "1416.38",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "http://fonts.gstatic.com/s/roboto/v18/d-6IYplOFocCacKzxwXSOKCWcynf_cDxXwCLxiixG1c.ttf",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "http://fonts.googleapis.com/css?family=Roboto:300,400,700|Montserrat:400,700",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "font"
+    },
+    {
+        "requestId": "1416.36",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "http://fonts.gstatic.com/s/roboto/v18/Hgo13k-tfSpn0qi1SFdUfaCWcynf_cDxXwCLxiixG1c.ttf",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "http://fonts.googleapis.com/css?family=Roboto:300,400,700|Montserrat:400,700",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "font"
+    },
+    {
+        "requestId": "1416.45",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "https://rebilly.github.io/ReDoc/petstore-logo.png",
+        "headers": {
+            "referer": "http://localhost:9000/",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.46",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgeD0iMCIgeT0iMCIgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA1MTIgNTEyIiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjMDEwMTAxIiBkPSJNNDU5LjcgMjMzLjRsLTkwLjUgOTAuNWMtNTAgNTAtMTMxIDUwLTE4MSAwIC03LjktNy44LTE0LTE2LjctMTkuNC0yNS44bDQyLjEtNDIuMWMyLTIgNC41LTMuMiA2LjgtNC41IDIuOSA5LjkgOCAxOS4zIDE1LjggMjcuMiAyNSAyNSA2NS42IDI0LjkgOTAuNSAwbDkwLjUtOTAuNWMyNS0yNSAyNS02NS42IDAtOTAuNSAtMjQuOS0yNS02NS41LTI1LTkwLjUgMGwtMzIuMiAzMi4yYy0yNi4xLTEwLjItNTQuMi0xMi45LTgxLjYtOC45bDY4LjYtNjguNmM1MC01MCAxMzEtNTAgMTgxIDBDNTA5LjYgMTAyLjMgNTA5LjYgMTgzLjQgNDU5LjcgMjMzLjR6TTIyMC4zIDM4Mi4ybC0zMi4yIDMyLjJjLTI1IDI0LjktNjUuNiAyNC45LTkwLjUgMCAtMjUtMjUtMjUtNjUuNiAwLTkwLjVsOTAuNS05MC41YzI1LTI1IDY1LjUtMjUgOTAuNSAwIDcuOCA3LjggMTIuOSAxNy4yIDE1LjggMjcuMSAyLjQtMS40IDQuOC0yLjUgNi44LTQuNWw0Mi4xLTQyYy01LjQtOS4yLTExLjYtMTgtMTkuNC0yNS44IC01MC01MC0xMzEtNTAtMTgxIDBsLTkwLjUgOTAuNWMtNTAgNTAtNTAgMTMxIDAgMTgxIDUwIDUwIDEzMSA1MCAxODEgMGw2OC42LTY4LjZDMjc0LjYgMzk1LjEgMjQ2LjQgMzkyLjMgMjIwLjMgMzgyLjJ6Ii8+PC9zdmc+Cg==",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.48",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAACgCAMAAADZ0KclAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF////////VXz1bAAAAAJ0Uk5T/wDltzBKAAAA80lEQVR42uSWSwLCIAxEX+5/aa2QZBJw5UIt9QMdRqSPEAAw/TyvqzZf150NzdXL49qreXwXjeqz9bqN1tgJl/KLyaVrrL7K7gx+1vlNMqy+helOO4rfBGYZiEkq1ubQ3DeKvc97Et+d+e01vIZlLZZqb1WNJFd8ZKYsmv4Hh3H2fDgjMUI5WSExjiEZs7rEZ5T+/jQn9lhgsw53j/e9MQtxqPsbZY54M5fNl/MY/f1s7NbRSkYlYjc0KPsWMrmhIU9933ywxDiSE+upYNH8TdusUotllNvcAUzfnE/NC4OSYyklQhpdl9E4Tw0Cm4/G9xBgAO7VCkjWLOMfAAAAAElFTkSuQmCC",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.50",
+        "frameId": "(23C0CB2A270866DDA652F84AA6709E33)",
+        "loaderId": "(AE8CA2FCC15B5DCE245B9E2E0AAAD564)",
+        "url": "https://api.github.com/repos/Rebilly/ReDoc?callback=callback",
+        "headers": {
+            "referer": "https://ghbtns.com/github-btn.html?user=Rebilly&repo=ReDoc&type=star&count=true&size=large",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.51",
+        "frameId": "(23C0CB2A270866DDA652F84AA6709E33)",
+        "loaderId": "(AE8CA2FCC15B5DCE245B9E2E0AAAD564)",
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjQwcHgiIGhlaWdodD0iNDBweCIgdmlld0JveD0iMTIgMTIgNDAgNDAiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMTIgMTIgNDAgNDAiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxwYXRoIGZpbGw9IiMzMzMzMzMiIGQ9Ik0zMiAxMy40Yy0xMC41IDAtMTkgOC41LTE5IDE5YzAgOC40IDUuNSAxNS41IDEzIDE4YzEgMC4yIDEuMy0wLjQgMS4zLTAuOWMwLTAuNSAwLTEuNyAwLTMuMiBjLTUuMyAxLjEtNi40LTIuNi02LjQtMi42QzIwIDQxLjYgMTguOCA0MSAxOC44IDQxYy0xLjctMS4yIDAuMS0xLjEgMC4xLTEuMWMxLjkgMC4xIDIuOSAyIDIuOSAyYzEuNyAyLjkgNC41IDIuMSA1LjUgMS42IGMwLjItMS4yIDAuNy0yLjEgMS4yLTIuNmMtNC4yLTAuNS04LjctMi4xLTguNy05LjRjMC0yLjEgMC43LTMuNyAyLTUuMWMtMC4yLTAuNS0wLjgtMi40IDAuMi01YzAgMCAxLjYtMC41IDUuMiAyIGMxLjUtMC40IDMuMS0wLjcgNC44LTAuN2MxLjYgMCAzLjMgMC4yIDQuNyAwLjdjMy42LTIuNCA1LjItMiA1LjItMmMxIDIuNiAwLjQgNC42IDAuMiA1YzEuMiAxLjMgMiAzIDIgNS4xYzAgNy4zLTQuNSA4LjktOC43IDkuNCBjMC43IDAuNiAxLjMgMS43IDEuMyAzLjVjMCAyLjYgMCA0LjYgMCA1LjJjMCAwLjUgMC40IDEuMSAxLjMgMC45YzcuNS0yLjYgMTMtOS43IDEzLTE4LjFDNTEgMjEuOSA0Mi41IDEzLjQgMzIgMTMuNHoiLz48L3N2Zz4=",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.35",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5AD1DAC599EA81AB62C1CDDA5B5D1722)",
+        "url": "http://fonts.gstatic.com/s/montserrat/v12/IQHow_FEYlDC4Gzy_m8fcvEr6Hm6RMS0v1dtXsGir4g.ttf",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "http://fonts.googleapis.com/css?family=Roboto:300,400,700|Montserrat:400,700",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "font"
+    },
+    {
+        "requestId": "1416.55",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/instagram.com/1.0.0/swagger.yaml",
+        "headers": {
+            "upgrade-insecure-requests": "1",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.56",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "http://localhost:9000/main.css",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/instagram.com/1.0.0/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "stylesheet"
+    },
+    {
+        "requestId": "1416.57",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/webcomponentsjs/webcomponents-lite.min.js",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.58",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/instagram.com/1.0.0/swagger.yaml",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.59",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "http://localhost:9000/main.js",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/instagram.com/1.0.0/swagger.yaml",
+            "if-none-match": "W/\"a8e-16165058576\"",
+            "if-modified-since": "Mon, 05 Feb 2018 08:11:56 GMT",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.60",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "http://localhost:9000/webpack-dev-server.js",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/instagram.com/1.0.0/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.61",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "http://localhost:9000/polyfills.js",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/instagram.com/1.0.0/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "if-none-match": "W/\"1a8413-vAHaUdgvhqvR8P9THAOHpgFQF0Q\""
+        },
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.62",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "http://localhost:9000/redoc.js",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/instagram.com/1.0.0/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "if-none-match": "W/\"847eec-RwmJCBS+S9MZ1J+oFJnbTTk/vps\""
+        },
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.66",
+        "frameId": "(C6452ED948FD660BF62775F2ABBC00F1)",
+        "loaderId": "(3A0086471BBFD402D108792ED2B7E90E)",
+        "url": "https://ghbtns.com/github-btn.html?user=Rebilly&repo=ReDoc&type=star&count=true&size=large",
+        "headers": {
+            "upgrade-insecure-requests": "1",
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/instagram.com/1.0.0/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.67",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/polymer/polymer.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.68",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-a11y-keys-behavior/iron-a11y-keys-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.69",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.70",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-overlay.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.71",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-shared-styles.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.72",
+        "frameId": "(C6452ED948FD660BF62775F2ABBC00F1)",
+        "loaderId": "(3A0086471BBFD402D108792ED2B7E90E)",
+        "url": "https://api.github.com/repos/Rebilly/ReDoc?callback=callback",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.73",
+        "frameId": "(C6452ED948FD660BF62775F2ABBC00F1)",
+        "loaderId": "(3A0086471BBFD402D108792ED2B7E90E)",
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjQwcHgiIGhlaWdodD0iNDBweCIgdmlld0JveD0iMTIgMTIgNDAgNDAiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMTIgMTIgNDAgNDAiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxwYXRoIGZpbGw9IiMzMzMzMzMiIGQ9Ik0zMiAxMy40Yy0xMC41IDAtMTkgOC41LTE5IDE5YzAgOC40IDUuNSAxNS41IDEzIDE4YzEgMC4yIDEuMy0wLjQgMS4zLTAuOWMwLTAuNSAwLTEuNyAwLTMuMiBjLTUuMyAxLjEtNi40LTIuNi02LjQtMi42QzIwIDQxLjYgMTguOCA0MSAxOC44IDQxYy0xLjctMS4yIDAuMS0xLjEgMC4xLTEuMWMxLjkgMC4xIDIuOSAyIDIuOSAyYzEuNyAyLjkgNC41IDIuMSA1LjUgMS42IGMwLjItMS4yIDAuNy0yLjEgMS4yLTIuNmMtNC4yLTAuNS04LjctMi4xLTguNy05LjRjMC0yLjEgMC43LTMuNyAyLTUuMWMtMC4yLTAuNS0wLjgtMi40IDAuMi01YzAgMCAxLjYtMC41IDUuMiAyIGMxLjUtMC40IDMuMS0wLjcgNC44LTAuN2MxLjYgMCAzLjMgMC4yIDQuNyAwLjdjMy42LTIuNCA1LjItMiA1LjItMmMxIDIuNiAwLjQgNC42IDAuMiA1YzEuMiAxLjMgMiAzIDIgNS4xYzAgNy4zLTQuNSA4LjktOC43IDkuNCBjMC43IDAuNiAxLjMgMS43IDEuMyAzLjVjMCAyLjYgMCA0LjYgMCA1LjJjMCAwLjUgMC40IDEuMSAxLjMgMC45YzcuNS0yLjYgMTMtOS43IDEzLTE4LjFDNTEgMjEuOSA0Mi41IDEzLjQgMzIgMTMuNHoiLz48L3N2Zz4=",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.74",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/polymer/polymer-mini.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/polymer/polymer.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.75",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-form-element-behavior/iron-form-element-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-behavior.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.76",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-a11y-announcer/iron-a11y-announcer.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-behavior.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.77",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-dropdown-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-behavior.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.78",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-list/iron-list.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-overlay.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.79",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/paper-styles/shadow.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-overlay.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.80",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-overlay-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-overlay.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.81",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/polymer/polymer-micro.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/polymer/polymer-mini.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.82",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-resizable-behavior/iron-resizable-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-list/iron-list.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.83",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-scroll-target-behavior/iron-scroll-target-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-list/iron-list.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.88",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "http://fonts.googleapis.com/css?family=Roboto:300,400,700|Montserrat:400,700",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "stylesheet"
+    },
+    {
+        "requestId": "1416.89",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "http://fonts.gstatic.com/s/montserrat/v12/zhcz-_WihjSQC0oHJ9TCYC3USBnSvpkopQaUR-2r7iU.ttf",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "font"
+    },
+    {
+        "requestId": "1416.90",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "http://fonts.gstatic.com/s/montserrat/v12/IQHow_FEYlDC4Gzy_m8fcvEr6Hm6RMS0v1dtXsGir4g.ttf",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "font"
+    },
+    {
+        "requestId": "1416.91",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "http://fonts.gstatic.com/s/roboto/v18/Hgo13k-tfSpn0qi1SFdUfaCWcynf_cDxXwCLxiixG1c.ttf",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "font"
+    },
+    {
+        "requestId": "1416.92",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "http://fonts.gstatic.com/s/roboto/v18/zN7GBFwfMP4uA6AR0HCoLQ.ttf",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "font"
+    },
+    {
+        "requestId": "1416.93",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "http://fonts.gstatic.com/s/roboto/v18/d-6IYplOFocCacKzxwXSOKCWcynf_cDxXwCLxiixG1c.ttf",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "font"
+    },
+    {
+        "requestId": "1416.94",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "https://api.apis.guru/v2/specs/instagram.com/1.0.0/swagger.yaml",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/instagram.com/1.0.0/swagger.yaml",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "other"
+    },
+    {
+        "requestId": "1416.95",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" width=\"512\" height=\"512\" viewBox=\"0 0 512 512\"><g></g><path d=\"M275.682 147.999c0 10.864-8.837 19.661-19.682 19.661v0c-10.875 0-19.681-8.796-19.681-19.661v-96.635c0-10.885 8.806-19.661 19.681-19.661v0c10.844 0 19.682 8.776 19.682 19.661v96.635z\" fill=\"",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.97",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "http://localhost:9000/sockjs-node/info?t=1517829597784",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/instagram.com/1.0.0/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "xhr"
+    },
+    {
+        "requestId": "1416.98",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "http://localhost:9000/sockjs-node/info?t=1517829597785",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/instagram.com/1.0.0/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "xhr"
+    },
+    {
+        "requestId": "1416.101",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" enable-background=\"new 0 0 100 100\" version=\"1.1\" viewBox=\"0 0 100 100\" xml:space=\"preserve\"><polygon fill=\"",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.103",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "https://api.apis.guru/v2/cache/logo/https_twitter.com_instagram_profile_image.jpeg",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/instagram.com/1.0.0/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.104",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgeD0iMCIgeT0iMCIgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA1MTIgNTEyIiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjMDEwMTAxIiBkPSJNNDU5LjcgMjMzLjRsLTkwLjUgOTAuNWMtNTAgNTAtMTMxIDUwLTE4MSAwIC03LjktNy44LTE0LTE2LjctMTkuNC0yNS44bDQyLjEtNDIuMWMyLTIgNC41LTMuMiA2LjgtNC41IDIuOSA5LjkgOCAxOS4zIDE1LjggMjcuMiAyNSAyNSA2NS42IDI0LjkgOTAuNSAwbDkwLjUtOTAuNWMyNS0yNSAyNS02NS42IDAtOTAuNSAtMjQuOS0yNS02NS41LTI1LTkwLjUgMGwtMzIuMiAzMi4yYy0yNi4xLTEwLjItNTQuMi0xMi45LTgxLjYtOC45bDY4LjYtNjguNmM1MC01MCAxMzEtNTAgMTgxIDBDNTA5LjYgMTAyLjMgNTA5LjYgMTgzLjQgNDU5LjcgMjMzLjR6TTIyMC4zIDM4Mi4ybC0zMi4yIDMyLjJjLTI1IDI0LjktNjUuNiAyNC45LTkwLjUgMCAtMjUtMjUtMjUtNjUuNiAwLTkwLjVsOTAuNS05MC41YzI1LTI1IDY1LjUtMjUgOTAuNSAwIDcuOCA3LjggMTIuOSAxNy4yIDE1LjggMjcuMSAyLjQtMS40IDQuOC0yLjUgNi44LTQuNWw0Mi4xLTQyYy01LjQtOS4yLTExLjYtMTgtMTkuNC0yNS44IC01MC01MC0xMzEtNTAtMTgxIDBsLTkwLjUgOTAuNWMtNTAgNTAtNTAgMTMxIDAgMTgxIDUwIDUwIDEzMSA1MCAxODEgMGw2OC42LTY4LjZDMjc0LjYgMzk1LjEgMjQ2LjQgMzkyLjMgMjIwLjMgMzgyLjJ6Ii8+PC9zdmc+Cg==",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.106",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(B6A0FC29A0CAD154DB8A56135481E106)",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAACgCAMAAADZ0KclAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF////////VXz1bAAAAAJ0Uk5T/wDltzBKAAAA80lEQVR42uSWSwLCIAxEX+5/aa2QZBJw5UIt9QMdRqSPEAAw/TyvqzZf150NzdXL49qreXwXjeqz9bqN1tgJl/KLyaVrrL7K7gx+1vlNMqy+helOO4rfBGYZiEkq1ubQ3DeKvc97Et+d+e01vIZlLZZqb1WNJFd8ZKYsmv4Hh3H2fDgjMUI5WSExjiEZs7rEZ5T+/jQn9lhgsw53j/e9MQtxqPsbZY54M5fNl/MY/f1s7NbRSkYlYjc0KPsWMrmhIU9933ywxDiSE+upYNH8TdusUotllNvcAUzfnE/NC4OSYyklQhpdl9E4Tw0Cm4/G9xBgAO7VCkjWLOMfAAAAAElFTkSuQmCC",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.108",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/googleapis.com/calendar/v3/swagger.yaml",
+        "headers": {
+            "upgrade-insecure-requests": "1",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.109",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "http://localhost:9000/main.css",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/googleapis.com/calendar/v3/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "stylesheet"
+    },
+    {
+        "requestId": "1416.110",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/webcomponentsjs/webcomponents-lite.min.js",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.111",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/googleapis.com/calendar/v3/swagger.yaml",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.112",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "http://localhost:9000/main.js",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/googleapis.com/calendar/v3/swagger.yaml",
+            "if-none-match": "W/\"a8e-16165058576\"",
+            "if-modified-since": "Mon, 05 Feb 2018 08:11:56 GMT",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.113",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "http://localhost:9000/webpack-dev-server.js",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/googleapis.com/calendar/v3/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.114",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "http://localhost:9000/polyfills.js",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/googleapis.com/calendar/v3/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "if-none-match": "W/\"1a8413-vAHaUdgvhqvR8P9THAOHpgFQF0Q\""
+        },
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.115",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "http://localhost:9000/redoc.js",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/googleapis.com/calendar/v3/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "if-none-match": "W/\"847eec-RwmJCBS+S9MZ1J+oFJnbTTk/vps\""
+        },
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.119",
+        "frameId": "(DF00F372F81040FBEE7D99C2988462EB)",
+        "loaderId": "(4C101B3D18B39617804FDA963FA8FFB1)",
+        "url": "https://ghbtns.com/github-btn.html?user=Rebilly&repo=ReDoc&type=star&count=true&size=large",
+        "headers": {
+            "upgrade-insecure-requests": "1",
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/googleapis.com/calendar/v3/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.120",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/polymer/polymer.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.121",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-a11y-keys-behavior/iron-a11y-keys-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.122",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.123",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-overlay.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.124",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-shared-styles.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.125",
+        "frameId": "(DF00F372F81040FBEE7D99C2988462EB)",
+        "loaderId": "(4C101B3D18B39617804FDA963FA8FFB1)",
+        "url": "https://api.github.com/repos/Rebilly/ReDoc?callback=callback",
+        "headers": {
+            "referer": "https://ghbtns.com/github-btn.html?user=Rebilly&repo=ReDoc&type=star&count=true&size=large",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.126",
+        "frameId": "(DF00F372F81040FBEE7D99C2988462EB)",
+        "loaderId": "(4C101B3D18B39617804FDA963FA8FFB1)",
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjQwcHgiIGhlaWdodD0iNDBweCIgdmlld0JveD0iMTIgMTIgNDAgNDAiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMTIgMTIgNDAgNDAiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxwYXRoIGZpbGw9IiMzMzMzMzMiIGQ9Ik0zMiAxMy40Yy0xMC41IDAtMTkgOC41LTE5IDE5YzAgOC40IDUuNSAxNS41IDEzIDE4YzEgMC4yIDEuMy0wLjQgMS4zLTAuOWMwLTAuNSAwLTEuNyAwLTMuMiBjLTUuMyAxLjEtNi40LTIuNi02LjQtMi42QzIwIDQxLjYgMTguOCA0MSAxOC44IDQxYy0xLjctMS4yIDAuMS0xLjEgMC4xLTEuMWMxLjkgMC4xIDIuOSAyIDIuOSAyYzEuNyAyLjkgNC41IDIuMSA1LjUgMS42IGMwLjItMS4yIDAuNy0yLjEgMS4yLTIuNmMtNC4yLTAuNS04LjctMi4xLTguNy05LjRjMC0yLjEgMC43LTMuNyAyLTUuMWMtMC4yLTAuNS0wLjgtMi40IDAuMi01YzAgMCAxLjYtMC41IDUuMiAyIGMxLjUtMC40IDMuMS0wLjcgNC44LTAuN2MxLjYgMCAzLjMgMC4yIDQuNyAwLjdjMy42LTIuNCA1LjItMiA1LjItMmMxIDIuNiAwLjQgNC42IDAuMiA1YzEuMiAxLjMgMiAzIDIgNS4xYzAgNy4zLTQuNSA4LjktOC43IDkuNCBjMC43IDAuNiAxLjMgMS43IDEuMyAzLjVjMCAyLjYgMCA0LjYgMCA1LjJjMCAwLjUgMC40IDEuMSAxLjMgMC45YzcuNS0yLjYgMTMtOS43IDEzLTE4LjFDNTEgMjEuOSA0Mi41IDEzLjQgMzIgMTMuNHoiLz48L3N2Zz4=",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.127",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/polymer/polymer-mini.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/polymer/polymer.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.128",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-form-element-behavior/iron-form-element-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-behavior.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.129",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-a11y-announcer/iron-a11y-announcer.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-behavior.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.130",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-dropdown-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-behavior.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.131",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-list/iron-list.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-overlay.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.132",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/paper-styles/shadow.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-overlay.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.133",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-overlay-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-overlay.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.134",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/polymer/polymer-micro.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/polymer/polymer-mini.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.135",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-resizable-behavior/iron-resizable-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-list/iron-list.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.136",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-scroll-target-behavior/iron-scroll-target-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-list/iron-list.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.141",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "http://fonts.googleapis.com/css?family=Roboto:300,400,700|Montserrat:400,700",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "stylesheet"
+    },
+    {
+        "requestId": "1416.142",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "http://fonts.gstatic.com/s/montserrat/v12/zhcz-_WihjSQC0oHJ9TCYC3USBnSvpkopQaUR-2r7iU.ttf",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "font"
+    },
+    {
+        "requestId": "1416.143",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "http://fonts.gstatic.com/s/montserrat/v12/IQHow_FEYlDC4Gzy_m8fcvEr6Hm6RMS0v1dtXsGir4g.ttf",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "font"
+    },
+    {
+        "requestId": "1416.144",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "http://fonts.gstatic.com/s/roboto/v18/Hgo13k-tfSpn0qi1SFdUfaCWcynf_cDxXwCLxiixG1c.ttf",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "font"
+    },
+    {
+        "requestId": "1416.145",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "http://fonts.gstatic.com/s/roboto/v18/zN7GBFwfMP4uA6AR0HCoLQ.ttf",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "font"
+    },
+    {
+        "requestId": "1416.146",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "http://fonts.gstatic.com/s/roboto/v18/d-6IYplOFocCacKzxwXSOKCWcynf_cDxXwCLxiixG1c.ttf",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "font"
+    },
+    {
+        "requestId": "1416.147",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "https://api.apis.guru/v2/specs/googleapis.com/calendar/v3/swagger.yaml",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/googleapis.com/calendar/v3/swagger.yaml",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "other"
+    },
+    {
+        "requestId": "1416.148",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" width=\"512\" height=\"512\" viewBox=\"0 0 512 512\"><g></g><path d=\"M275.682 147.999c0 10.864-8.837 19.661-19.682 19.661v0c-10.875 0-19.681-8.796-19.681-19.661v-96.635c0-10.885 8.806-19.661 19.681-19.661v0c10.844 0 19.682 8.776 19.682 19.661v96.635z\" fill=\"",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.149",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "http://localhost:9000/sockjs-node/info?t=1517829599769",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/googleapis.com/calendar/v3/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "xhr"
+    },
+    {
+        "requestId": "1416.150",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "http://localhost:9000/sockjs-node/info?t=1517829599770",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/googleapis.com/calendar/v3/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "xhr"
+    },
+    {
+        "requestId": "1416.153",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" enable-background=\"new 0 0 100 100\" version=\"1.1\" viewBox=\"0 0 100 100\" xml:space=\"preserve\"><polygon fill=\"",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.155",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "https://api.apis.guru/v2/cache/logo/https_www.gstatic.com_images_icons_material_product_2x_calendar_64dp.png",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/googleapis.com/calendar/v3/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.156",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgeD0iMCIgeT0iMCIgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA1MTIgNTEyIiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjMDEwMTAxIiBkPSJNNDU5LjcgMjMzLjRsLTkwLjUgOTAuNWMtNTAgNTAtMTMxIDUwLTE4MSAwIC03LjktNy44LTE0LTE2LjctMTkuNC0yNS44bDQyLjEtNDIuMWMyLTIgNC41LTMuMiA2LjgtNC41IDIuOSA5LjkgOCAxOS4zIDE1LjggMjcuMiAyNSAyNSA2NS42IDI0LjkgOTAuNSAwbDkwLjUtOTAuNWMyNS0yNSAyNS02NS42IDAtOTAuNSAtMjQuOS0yNS02NS41LTI1LTkwLjUgMGwtMzIuMiAzMi4yYy0yNi4xLTEwLjItNTQuMi0xMi45LTgxLjYtOC45bDY4LjYtNjguNmM1MC01MCAxMzEtNTAgMTgxIDBDNTA5LjYgMTAyLjMgNTA5LjYgMTgzLjQgNDU5LjcgMjMzLjR6TTIyMC4zIDM4Mi4ybC0zMi4yIDMyLjJjLTI1IDI0LjktNjUuNiAyNC45LTkwLjUgMCAtMjUtMjUtMjUtNjUuNiAwLTkwLjVsOTAuNS05MC41YzI1LTI1IDY1LjUtMjUgOTAuNSAwIDcuOCA3LjggMTIuOSAxNy4yIDE1LjggMjcuMSAyLjQtMS40IDQuOC0yLjUgNi44LTQuNWw0Mi4xLTQyYy01LjQtOS4yLTExLjYtMTgtMTkuNC0yNS44IC01MC01MC0xMzEtNTAtMTgxIDBsLTkwLjUgOTAuNWMtNTAgNTAtNTAgMTMxIDAgMTgxIDUwIDUwIDEzMSA1MCAxODEgMGw2OC42LTY4LjZDMjc0LjYgMzk1LjEgMjQ2LjQgMzkyLjMgMjIwLjMgMzgyLjJ6Ii8+PC9zdmc+Cg==",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.158",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(376B1844968E57F7661523DF79080DEB)",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAACgCAMAAADZ0KclAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF////////VXz1bAAAAAJ0Uk5T/wDltzBKAAAA80lEQVR42uSWSwLCIAxEX+5/aa2QZBJw5UIt9QMdRqSPEAAw/TyvqzZf150NzdXL49qreXwXjeqz9bqN1tgJl/KLyaVrrL7K7gx+1vlNMqy+helOO4rfBGYZiEkq1ubQ3DeKvc97Et+d+e01vIZlLZZqb1WNJFd8ZKYsmv4Hh3H2fDgjMUI5WSExjiEZs7rEZ5T+/jQn9lhgsw53j/e9MQtxqPsbZY54M5fNl/MY/f1s7NbRSkYlYjc0KPsWMrmhIU9933ywxDiSE+upYNH8TdusUotllNvcAUzfnE/NC4OSYyklQhpdl9E4Tw0Cm4/G9xBgAO7VCkjWLOMfAAAAAElFTkSuQmCC",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.160",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/data2crm.com/1/swagger.yaml",
+        "headers": {
+            "upgrade-insecure-requests": "1",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.161",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "http://localhost:9000/main.css",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/data2crm.com/1/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "stylesheet"
+    },
+    {
+        "requestId": "1416.162",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/webcomponentsjs/webcomponents-lite.min.js",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.163",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/data2crm.com/1/swagger.yaml",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.164",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "http://localhost:9000/main.js",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/data2crm.com/1/swagger.yaml",
+            "if-none-match": "W/\"a8e-16165058576\"",
+            "if-modified-since": "Mon, 05 Feb 2018 08:11:56 GMT",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.165",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "http://localhost:9000/webpack-dev-server.js",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/data2crm.com/1/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.166",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "http://localhost:9000/polyfills.js",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/data2crm.com/1/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "if-none-match": "W/\"1a8413-vAHaUdgvhqvR8P9THAOHpgFQF0Q\""
+        },
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.167",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "http://localhost:9000/redoc.js",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/data2crm.com/1/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "if-none-match": "W/\"847eec-RwmJCBS+S9MZ1J+oFJnbTTk/vps\""
+        },
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.171",
+        "frameId": "(696F942A9B40EA38BB9EFCAEBCEBC479)",
+        "loaderId": "(41672A2C56142502623870522B944A07)",
+        "url": "https://ghbtns.com/github-btn.html?user=Rebilly&repo=ReDoc&type=star&count=true&size=large",
+        "headers": {
+            "upgrade-insecure-requests": "1",
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/data2crm.com/1/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.172",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/polymer/polymer.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.173",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-a11y-keys-behavior/iron-a11y-keys-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.174",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.175",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-overlay.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.176",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-shared-styles.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.177",
+        "frameId": "(696F942A9B40EA38BB9EFCAEBCEBC479)",
+        "loaderId": "(41672A2C56142502623870522B944A07)",
+        "url": "https://api.github.com/repos/Rebilly/ReDoc?callback=callback",
+        "headers": {
+            "referer": "https://ghbtns.com/github-btn.html?user=Rebilly&repo=ReDoc&type=star&count=true&size=large",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.178",
+        "frameId": "(696F942A9B40EA38BB9EFCAEBCEBC479)",
+        "loaderId": "(41672A2C56142502623870522B944A07)",
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjQwcHgiIGhlaWdodD0iNDBweCIgdmlld0JveD0iMTIgMTIgNDAgNDAiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMTIgMTIgNDAgNDAiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxwYXRoIGZpbGw9IiMzMzMzMzMiIGQ9Ik0zMiAxMy40Yy0xMC41IDAtMTkgOC41LTE5IDE5YzAgOC40IDUuNSAxNS41IDEzIDE4YzEgMC4yIDEuMy0wLjQgMS4zLTAuOWMwLTAuNSAwLTEuNyAwLTMuMiBjLTUuMyAxLjEtNi40LTIuNi02LjQtMi42QzIwIDQxLjYgMTguOCA0MSAxOC44IDQxYy0xLjctMS4yIDAuMS0xLjEgMC4xLTEuMWMxLjkgMC4xIDIuOSAyIDIuOSAyYzEuNyAyLjkgNC41IDIuMSA1LjUgMS42IGMwLjItMS4yIDAuNy0yLjEgMS4yLTIuNmMtNC4yLTAuNS04LjctMi4xLTguNy05LjRjMC0yLjEgMC43LTMuNyAyLTUuMWMtMC4yLTAuNS0wLjgtMi40IDAuMi01YzAgMCAxLjYtMC41IDUuMiAyIGMxLjUtMC40IDMuMS0wLjcgNC44LTAuN2MxLjYgMCAzLjMgMC4yIDQuNyAwLjdjMy42LTIuNCA1LjItMiA1LjItMmMxIDIuNiAwLjQgNC42IDAuMiA1YzEuMiAxLjMgMiAzIDIgNS4xYzAgNy4zLTQuNSA4LjktOC43IDkuNCBjMC43IDAuNiAxLjMgMS43IDEuMyAzLjVjMCAyLjYgMCA0LjYgMCA1LjJjMCAwLjUgMC40IDEuMSAxLjMgMC45YzcuNS0yLjYgMTMtOS43IDEzLTE4LjFDNTEgMjEuOSA0Mi41IDEzLjQgMzIgMTMuNHoiLz48L3N2Zz4=",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.179",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/polymer/polymer-mini.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/polymer/polymer.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.180",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-form-element-behavior/iron-form-element-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-behavior.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.181",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-a11y-announcer/iron-a11y-announcer.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-behavior.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.182",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-dropdown-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-behavior.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.183",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-list/iron-list.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-overlay.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.184",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/paper-styles/shadow.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-overlay.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.185",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-overlay-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-overlay.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.186",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/polymer/polymer-micro.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/polymer/polymer-mini.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.187",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-resizable-behavior/iron-resizable-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-list/iron-list.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.188",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-scroll-target-behavior/iron-scroll-target-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-list/iron-list.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.193",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "http://fonts.googleapis.com/css?family=Roboto:300,400,700|Montserrat:400,700",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "stylesheet"
+    },
+    {
+        "requestId": "1416.194",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "http://fonts.gstatic.com/s/montserrat/v12/zhcz-_WihjSQC0oHJ9TCYC3USBnSvpkopQaUR-2r7iU.ttf",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "font"
+    },
+    {
+        "requestId": "1416.195",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "http://fonts.gstatic.com/s/montserrat/v12/IQHow_FEYlDC4Gzy_m8fcvEr6Hm6RMS0v1dtXsGir4g.ttf",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "font"
+    },
+    {
+        "requestId": "1416.196",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "http://fonts.gstatic.com/s/roboto/v18/Hgo13k-tfSpn0qi1SFdUfaCWcynf_cDxXwCLxiixG1c.ttf",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "font"
+    },
+    {
+        "requestId": "1416.197",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "http://fonts.gstatic.com/s/roboto/v18/zN7GBFwfMP4uA6AR0HCoLQ.ttf",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "font"
+    },
+    {
+        "requestId": "1416.198",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "http://fonts.gstatic.com/s/roboto/v18/d-6IYplOFocCacKzxwXSOKCWcynf_cDxXwCLxiixG1c.ttf",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "font"
+    },
+    {
+        "requestId": "1416.199",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "https://api.apis.guru/v2/specs/data2crm.com/1/swagger.yaml",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/data2crm.com/1/swagger.yaml",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "other"
+    },
+    {
+        "requestId": "1416.200",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" width=\"512\" height=\"512\" viewBox=\"0 0 512 512\"><g></g><path d=\"M275.682 147.999c0 10.864-8.837 19.661-19.682 19.661v0c-10.875 0-19.681-8.796-19.681-19.661v-96.635c0-10.885 8.806-19.661 19.681-19.661v0c10.844 0 19.682 8.776 19.682 19.661v96.635z\" fill=\"",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.201",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "http://localhost:9000/sockjs-node/info?t=1517829601948",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/data2crm.com/1/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "xhr"
+    },
+    {
+        "requestId": "1416.202",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "http://localhost:9000/sockjs-node/info?t=1517829601949",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/data2crm.com/1/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "xhr"
+    },
+    {
+        "requestId": "1416.205",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" enable-background=\"new 0 0 100 100\" version=\"1.1\" viewBox=\"0 0 100 100\" xml:space=\"preserve\"><polygon fill=\"",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.206",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "https://api.apis.guru/v2/cache/logo/https_s3.amazonaws.com_enterprise-multitenant.3scale.net.3scale.net_data2crm-api_2445581398133_profiles_logos_medium_data2crm_api.png",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/data2crm.com/1/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.207",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgeD0iMCIgeT0iMCIgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA1MTIgNTEyIiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjMDEwMTAxIiBkPSJNNDU5LjcgMjMzLjRsLTkwLjUgOTAuNWMtNTAgNTAtMTMxIDUwLTE4MSAwIC03LjktNy44LTE0LTE2LjctMTkuNC0yNS44bDQyLjEtNDIuMWMyLTIgNC41LTMuMiA2LjgtNC41IDIuOSA5LjkgOCAxOS4zIDE1LjggMjcuMiAyNSAyNSA2NS42IDI0LjkgOTAuNSAwbDkwLjUtOTAuNWMyNS0yNSAyNS02NS42IDAtOTAuNSAtMjQuOS0yNS02NS41LTI1LTkwLjUgMGwtMzIuMiAzMi4yYy0yNi4xLTEwLjItNTQuMi0xMi45LTgxLjYtOC45bDY4LjYtNjguNmM1MC01MCAxMzEtNTAgMTgxIDBDNTA5LjYgMTAyLjMgNTA5LjYgMTgzLjQgNDU5LjcgMjMzLjR6TTIyMC4zIDM4Mi4ybC0zMi4yIDMyLjJjLTI1IDI0LjktNjUuNiAyNC45LTkwLjUgMCAtMjUtMjUtMjUtNjUuNiAwLTkwLjVsOTAuNS05MC41YzI1LTI1IDY1LjUtMjUgOTAuNSAwIDcuOCA3LjggMTIuOSAxNy4yIDE1LjggMjcuMSAyLjQtMS40IDQuOC0yLjUgNi44LTQuNWw0Mi4xLTQyYy01LjQtOS4yLTExLjYtMTgtMTkuNC0yNS44IC01MC01MC0xMzEtNTAtMTgxIDBsLTkwLjUgOTAuNWMtNTAgNTAtNTAgMTMxIDAgMTgxIDUwIDUwIDEzMSA1MCAxODEgMGw2OC42LTY4LjZDMjc0LjYgMzk1LjEgMjQ2LjQgMzkyLjMgMjIwLjMgMzgyLjJ6Ii8+PC9zdmc+Cg==",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.208",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(646120895582114422730C83A28401EB)",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAACgCAMAAADZ0KclAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF////////VXz1bAAAAAJ0Uk5T/wDltzBKAAAA80lEQVR42uSWSwLCIAxEX+5/aa2QZBJw5UIt9QMdRqSPEAAw/TyvqzZf150NzdXL49qreXwXjeqz9bqN1tgJl/KLyaVrrL7K7gx+1vlNMqy+helOO4rfBGYZiEkq1ubQ3DeKvc97Et+d+e01vIZlLZZqb1WNJFd8ZKYsmv4Hh3H2fDgjMUI5WSExjiEZs7rEZ5T+/jQn9lhgsw53j/e9MQtxqPsbZY54M5fNl/MY/f1s7NbRSkYlYjc0KPsWMrmhIU9933ywxDiSE+upYNH8TdusUotllNvcAUzfnE/NC4OSYyklQhpdl9E4Tw0Cm4/G9xBgAO7VCkjWLOMfAAAAAElFTkSuQmCC",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.209",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/graphhopper.com/1.0/swagger.yaml",
+        "headers": {
+            "upgrade-insecure-requests": "1",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.210",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "http://localhost:9000/main.css",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/graphhopper.com/1.0/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "stylesheet"
+    },
+    {
+        "requestId": "1416.211",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/webcomponentsjs/webcomponents-lite.min.js",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.212",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/graphhopper.com/1.0/swagger.yaml",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.213",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "http://localhost:9000/main.js",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/graphhopper.com/1.0/swagger.yaml",
+            "if-none-match": "W/\"a8e-16165058576\"",
+            "if-modified-since": "Mon, 05 Feb 2018 08:11:56 GMT",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.214",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "http://localhost:9000/webpack-dev-server.js",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/graphhopper.com/1.0/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.215",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "http://localhost:9000/polyfills.js",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/graphhopper.com/1.0/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "if-none-match": "W/\"1a8413-vAHaUdgvhqvR8P9THAOHpgFQF0Q\""
+        },
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.216",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "http://localhost:9000/redoc.js",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/graphhopper.com/1.0/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "if-none-match": "W/\"847eec-RwmJCBS+S9MZ1J+oFJnbTTk/vps\""
+        },
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.220",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/polymer/polymer.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.221",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-a11y-keys-behavior/iron-a11y-keys-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.222",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.223",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-overlay.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.224",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-shared-styles.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-light.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.225",
+        "frameId": "(5A5A8006C6A43B2CC90E84980C4F79B6)",
+        "loaderId": "(2C6421E4B094A9678B1FB794858CC8E)",
+        "url": "https://ghbtns.com/github-btn.html?user=Rebilly&repo=ReDoc&type=star&count=true&size=large",
+        "headers": {
+            "upgrade-insecure-requests": "1",
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/graphhopper.com/1.0/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.226",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/polymer/polymer-mini.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/polymer/polymer.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.227",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-form-element-behavior/iron-form-element-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-behavior.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.228",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-a11y-announcer/iron-a11y-announcer.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-behavior.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.229",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-dropdown-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-behavior.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.230",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-list/iron-list.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-overlay.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.231",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/paper-styles/shadow.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-overlay.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.232",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-overlay-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/vaadin-combo-box/vaadin-combo-box-overlay.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.233",
+        "frameId": "(5A5A8006C6A43B2CC90E84980C4F79B6)",
+        "loaderId": "(2C6421E4B094A9678B1FB794858CC8E)",
+        "url": "https://api.github.com/repos/Rebilly/ReDoc?callback=callback",
+        "headers": {
+            "referer": "https://ghbtns.com/github-btn.html?user=Rebilly&repo=ReDoc&type=star&count=true&size=large",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "script"
+    },
+    {
+        "requestId": "1416.234",
+        "frameId": "(5A5A8006C6A43B2CC90E84980C4F79B6)",
+        "loaderId": "(2C6421E4B094A9678B1FB794858CC8E)",
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjQwcHgiIGhlaWdodD0iNDBweCIgdmlld0JveD0iMTIgMTIgNDAgNDAiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMTIgMTIgNDAgNDAiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxwYXRoIGZpbGw9IiMzMzMzMzMiIGQ9Ik0zMiAxMy40Yy0xMC41IDAtMTkgOC41LTE5IDE5YzAgOC40IDUuNSAxNS41IDEzIDE4YzEgMC4yIDEuMy0wLjQgMS4zLTAuOWMwLTAuNSAwLTEuNyAwLTMuMiBjLTUuMyAxLjEtNi40LTIuNi02LjQtMi42QzIwIDQxLjYgMTguOCA0MSAxOC44IDQxYy0xLjctMS4yIDAuMS0xLjEgMC4xLTEuMWMxLjkgMC4xIDIuOSAyIDIuOSAyYzEuNyAyLjkgNC41IDIuMSA1LjUgMS42IGMwLjItMS4yIDAuNy0yLjEgMS4yLTIuNmMtNC4yLTAuNS04LjctMi4xLTguNy05LjRjMC0yLjEgMC43LTMuNyAyLTUuMWMtMC4yLTAuNS0wLjgtMi40IDAuMi01YzAgMCAxLjYtMC41IDUuMiAyIGMxLjUtMC40IDMuMS0wLjcgNC44LTAuN2MxLjYgMCAzLjMgMC4yIDQuNyAwLjdjMy42LTIuNCA1LjItMiA1LjItMmMxIDIuNiAwLjQgNC42IDAuMiA1YzEuMiAxLjMgMiAzIDIgNS4xYzAgNy4zLTQuNSA4LjktOC43IDkuNCBjMC43IDAuNiAxLjMgMS43IDEuMyAzLjVjMCAyLjYgMCA0LjYgMCA1LjJjMCAwLjUgMC40IDEuMSAxLjMgMC45YzcuNS0yLjYgMTMtOS43IDEzLTE4LjFDNTEgMjEuOSA0Mi41IDEzLjQgMzIgMTMuNHoiLz48L3N2Zz4=",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.235",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/polymer/polymer-micro.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/polymer/polymer-mini.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.236",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-resizable-behavior/iron-resizable-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-list/iron-list.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.237",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-scroll-target-behavior/iron-scroll-target-behavior.html",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "https://cdn.vaadin.com/vaadin-core-elements/1.2.0/iron-list/iron-list.html",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "document"
+    },
+    {
+        "requestId": "1416.242",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "http://fonts.googleapis.com/css?family=Roboto:300,400,700|Montserrat:400,700",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "stylesheet"
+    },
+    {
+        "requestId": "1416.243",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "http://fonts.gstatic.com/s/montserrat/v12/zhcz-_WihjSQC0oHJ9TCYC3USBnSvpkopQaUR-2r7iU.ttf",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "font"
+    },
+    {
+        "requestId": "1416.244",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "http://fonts.gstatic.com/s/montserrat/v12/IQHow_FEYlDC4Gzy_m8fcvEr6Hm6RMS0v1dtXsGir4g.ttf",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "font"
+    },
+    {
+        "requestId": "1416.245",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "http://fonts.gstatic.com/s/roboto/v18/Hgo13k-tfSpn0qi1SFdUfaCWcynf_cDxXwCLxiixG1c.ttf",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "font"
+    },
+    {
+        "requestId": "1416.246",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "http://fonts.gstatic.com/s/roboto/v18/zN7GBFwfMP4uA6AR0HCoLQ.ttf",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "font"
+    },
+    {
+        "requestId": "1416.247",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "http://fonts.gstatic.com/s/roboto/v18/d-6IYplOFocCacKzxwXSOKCWcynf_cDxXwCLxiixG1c.ttf",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "font"
+    },
+    {
+        "requestId": "1416.248",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "https://api.apis.guru/v2/specs/graphhopper.com/1.0/swagger.yaml",
+        "headers": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36",
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/graphhopper.com/1.0/swagger.yaml",
+            "origin": "http://localhost:9000"
+        },
+        "method": "GET",
+        "resourceType": "other"
+    },
+    {
+        "requestId": "1416.249",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" width=\"512\" height=\"512\" viewBox=\"0 0 512 512\"><g></g><path d=\"M275.682 147.999c0 10.864-8.837 19.661-19.682 19.661v0c-10.875 0-19.681-8.796-19.681-19.661v-96.635c0-10.885 8.806-19.661 19.681-19.661v0c10.844 0 19.682 8.776 19.682 19.661v96.635z\" fill=\"",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.251",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "http://localhost:9000/sockjs-node/info?t=1517829604590",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/graphhopper.com/1.0/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "xhr"
+    },
+    {
+        "requestId": "1416.252",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "http://localhost:9000/sockjs-node/info?t=1517829604591",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/graphhopper.com/1.0/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "xhr"
+    },
+    {
+        "requestId": "1416.255",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" enable-background=\"new 0 0 100 100\" version=\"1.1\" viewBox=\"0 0 100 100\" xml:space=\"preserve\"><polygon fill=\"",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.257",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "https://api.apis.guru/v2/cache/logo/https_graphhopper.com_img_header.png",
+        "headers": {
+            "referer": "http://localhost:9000/?url=https://api.apis.guru/v2/specs/graphhopper.com/1.0/swagger.yaml",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.140 Safari/537.36"
+        },
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.258",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgeD0iMCIgeT0iMCIgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA1MTIgNTEyIiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBmaWxsPSIjMDEwMTAxIiBkPSJNNDU5LjcgMjMzLjRsLTkwLjUgOTAuNWMtNTAgNTAtMTMxIDUwLTE4MSAwIC03LjktNy44LTE0LTE2LjctMTkuNC0yNS44bDQyLjEtNDIuMWMyLTIgNC41LTMuMiA2LjgtNC41IDIuOSA5LjkgOCAxOS4zIDE1LjggMjcuMiAyNSAyNSA2NS42IDI0LjkgOTAuNSAwbDkwLjUtOTAuNWMyNS0yNSAyNS02NS42IDAtOTAuNSAtMjQuOS0yNS02NS41LTI1LTkwLjUgMGwtMzIuMiAzMi4yYy0yNi4xLTEwLjItNTQuMi0xMi45LTgxLjYtOC45bDY4LjYtNjguNmM1MC01MCAxMzEtNTAgMTgxIDBDNTA5LjYgMTAyLjMgNTA5LjYgMTgzLjQgNDU5LjcgMjMzLjR6TTIyMC4zIDM4Mi4ybC0zMi4yIDMyLjJjLTI1IDI0LjktNjUuNiAyNC45LTkwLjUgMCAtMjUtMjUtMjUtNjUuNiAwLTkwLjVsOTAuNS05MC41YzI1LTI1IDY1LjUtMjUgOTAuNSAwIDcuOCA3LjggMTIuOSAxNy4yIDE1LjggMjcuMSAyLjQtMS40IDQuOC0yLjUgNi44LTQuNWw0Mi4xLTQyYy01LjQtOS4yLTExLjYtMTgtMTkuNC0yNS44IC01MC01MC0xMzEtNTAtMTgxIDBsLTkwLjUgOTAuNWMtNTAgNTAtNTAgMTMxIDAgMTgxIDUwIDUwIDEzMSA1MCAxODEgMGw2OC42LTY4LjZDMjc0LjYgMzk1LjEgMjQ2LjQgMzkyLjMgMjIwLjMgMzgyLjJ6Ii8+PC9zdmc+Cg==",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "image"
+    },
+    {
+        "requestId": "1416.260",
+        "frameId": "(71972620FB4C8D2C4164E189DB3454F0)",
+        "loaderId": "(5E29C80E9B5A9386FB44F225EDACC891)",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAACgCAMAAADZ0KclAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF////////VXz1bAAAAAJ0Uk5T/wDltzBKAAAA80lEQVR42uSWSwLCIAxEX+5/aa2QZBJw5UIt9QMdRqSPEAAw/TyvqzZf150NzdXL49qreXwXjeqz9bqN1tgJl/KLyaVrrL7K7gx+1vlNMqy+helOO4rfBGYZiEkq1ubQ3DeKvc97Et+d+e01vIZlLZZqb1WNJFd8ZKYsmv4Hh3H2fDgjMUI5WSExjiEZs7rEZ5T+/jQn9lhgsw53j/e9MQtxqPsbZY54M5fNl/MY/f1s7NbRSkYlYjc0KPsWMrmhIU9933ywxDiSE+upYNH8TdusUotllNvcAUzfnE/NC4OSYyklQhpdl9E4Tw0Cm4/G9xBgAO7VCkjWLOMfAAAAAElFTkSuQmCC",
+        "headers": {},
+        "method": "GET",
+        "resourceType": "image"
+    }
+]
